@@ -38,7 +38,8 @@ This project is pre-configured for use with the following gems that you will nee
   - User should be able to view their to-do list.
   - User should be able to create a to-do item.
   - User should be able to edit a to-do item.
-  - User should be able to mark a to-do item as complete.
+  - User should be able to mark an incomplete to-do item as complete.
+  - User should be able to mark a complete to-do item as incomplete.
   - User should be able to delete a to-do item.
 
 ### Example
