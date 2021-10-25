@@ -44,4 +44,4 @@ This project is pre-configured for use with the following gems that you will nee
 
 ### Example
 
-![Sample homepage when signed in](https://github.com/UTRGV-SOM/rails_starter_project/blob/master/rails_starter_project%20example.PNG)
+![Sample homepage when signed in](./rails_starter_project%20example.PNG)
